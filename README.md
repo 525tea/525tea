@@ -2,7 +2,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=525tea&color=fb4362)
 
 <h3>Stack</h3>
 <p>
@@ -20,11 +19,3 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
   
-<h3>My GitHub contributions summary</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=525tea)](https://git.io/streak-stats)
-
-![525tea's GitHub stats](https://github-readme-stats.vercel.app/api?username=525tea&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=525tea&layout=compact&theme=tokyonight)
-
