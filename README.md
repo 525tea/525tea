@@ -25,3 +25,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=525tea)](https://git.io/streak-stats)
 
 ![525tea's GitHub stats](https://github-readme-stats.vercel.app/api?username=525tea&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=525tea&layout=compact&theme=tokyonight)
+
