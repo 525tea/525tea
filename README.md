@@ -5,8 +5,18 @@
 I am a Back-End Developer based in South Korea.<br/>
 Feel free to reach out to me for further information through the contact below.<br/>
 
-📞 . 000 <br/>
-✉️ . gmail.com
+<a href="https://github.com/525tea" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white alt=velog style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:-@gmail.com">
+<img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" style="margin-bottom: 5px;"/>
+</a>
  
 <br/>
 
