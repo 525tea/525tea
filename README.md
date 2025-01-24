@@ -1,9 +1,7 @@
 
 <br/>
-<br/>
 
-I am a Back-End Developer based in South Korea.<br/>
-Feel free to reach out to me for further information through the contact below.<br/>
+<h3>Contacts</h3>
 
 <a href="https://github.com/525tea" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
